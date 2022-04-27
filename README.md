@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joao-Mesquita
-- 👀 I’m interested in developing my skills in technology  
+- 👀 I’m interested in developing/programming  
 - 🌱 I’m currently learning Git & GitHub, Power BI and Outsystems
 - 🔔 I have some knowledge in: HTML5, CSS3, Bootstrap, mySQL, C#, C++, RPA platforms (UiPath & Automation Anywhere)
 - 💞️ I’m looking to collaborate on any technology challenging projects 
